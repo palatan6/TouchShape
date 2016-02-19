@@ -1,0 +1,117 @@
+# UnityGenerated #
+##################
+
+**/[Tt]emp/
+!**/Assets/**/[Tt]emp/
+**/[Ll]ibrary/
+**/[Oo]bj/
+**/[Bb]uild/
+**/Builds/
+#**/!Library/ProjectSettings.asset
+
+ 
+# VS MD Generated #
+###################
+*.svd
+*.userprefs
+*.tmproj
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# OS Generated #
+################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.Trashes.*
+Icon?
+ehthumbs.db
+ehthumbs.db.*
+Thumbs.db
+Thumbs.db.*
+
+# Compiled source #
+###################
+*.com
+*.class
+*.o
+*.so
+ 
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+ 
+# Logs and databases #
+######################
+*.log
+TT\Assets\StreamingAssets\TT_db.sqlite
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# ==============
+# = 2D Toolkig =
+# ==============
+ 
+**/Assets/-tk2d
+**/Assets/-tk2d.*
+**/Assets/Resources/tk2d/*
+**/Assets/Resources/tk2d.*
+TT/Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll
+TT/Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll.meta
+TT/Assets/StreamingAssets/TT_db.sqlite
+TT/Assets/StreamingAssets/TT_db.sqlite.meta
+TT/Assets/GameObj/Art/char/Monkey/Thumbs.db.meta
+TT/Assets/GameObj/Art/char/Monkey/temp/Thumbs.db.meta
+TT/Assets/GameObj/Art/char/Upgrades/Thumbs.db.meta
+TT/Assets/GameObj/Art/deco/Cave/Thumbs.db.meta
+TT/Assets/GameObj/Art/deco/back/Thumbs.db.meta
+TT/Assets/GameObj/Art/items/Thumbs.db.meta
+TT/Assets/GameObj/Art/level/Portal/Thumbs.db.meta
+TT/Assets/GameObj/Art/level/back/Thumbs.db.meta
+TT/Assets/GameObj/Art/CircleTimer/Thumbs.db.meta
+TT/Assets/GameObj/Art/Enemy/Thumbs.db.meta
+TT/Assets/GameObj/Art/Ui/IngameUI/Thumbs.db.meta
+TT/Assets/GameObj/Art/Ui/Map_Ui/Thumbs.db.meta
+TT/Assets/GameObj/Art/Ui/Map_Ui/Upgrade Shop/Thumbs.db.meta
+TT/Assets/GameObj/Art/Ui/Map_Ui/upgrades/Thumbs.db.meta
+TT/Assets/GameObj/Art/level/platform/Thumbs.db.meta
+TT/Assets/GameObj/Art/level/stone/Thumbs.db.meta
+TT/Assets/GameObj/Art/level/temp/Thumbs.db.meta
+TT/Assets/GameObj/Art/map/Fog_war/Thumbs.db.meta
+TT/Assets/GameObj/Art/map/unlock_point/Thumbs.db.meta
+TT/Assets/GameObj/Art/map/Thumbs.db.meta
+TT/Assets/GameObj/Art/particles/Loot/Thumbs.db.meta
+TT/Assets/GameObj/Art/particles/Thumbs.db.meta
+TT/Assets/GameObj/Art/particles/picking_up/Thumbs.db.meta
+TT/Assets/GameObj/Art/particles/portal/Thumbs.db.meta
+TT/Assets/GameObj/Art/temp/Thumbs.db.meta
+TT/Assets/GameObj/Art/temp/bar Data/Thumbs.db.meta
+TT/Assets/GameObj/Art/traps/Thumbs.db.meta
+TT/Assets/Plugins/Android/libs/armeabi-v7a/libsqlite3.so.meta
+TT/Assets/Plugins/Android/libs/x86/libsqlite3.so.meta
+TT/Assets/Tools/_Freakow/RageSpline/Code/RageSpline.cs.bak.meta
+TT/Assets/spine/spine-csharp/spine-csharp.csproj.meta
+TT/Assets/spine/spine-csharp/spine-csharp.sln.meta
+TT/Assets/spine/spine-csharp/spine-csharp_xna.csproj.meta
+TT/Assets/StreamingAssets/TT_db 1.sqlite
+TT/Assets/StreamingAssets/TT_db 1.sqlite.meta
+TT/Assets/StreamingAssets/Backup_TT_db.sqlite.meta
+TT/Assets/StreamingAssets/Backup_TT_db.sqlite
